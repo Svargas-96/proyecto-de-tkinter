@@ -1,5 +1,5 @@
 Grupo 10
-Sebastián vargas, Marcelo Casco, Marta Graciela Socha, Escobar Fernandez Gonzalo Martin, Rolando Luis LLanes
+Sebastián vargas, Marcelo Casco
 Pizzeria digital
 Metodología utilizada para organizar el grupo y trabajar colaborativamente.
 La metodologia utilizada fue SCRUM, en primera instancia vimos con el grupo ideas para poder definir el proyecto, con participacion de la mayoria,
